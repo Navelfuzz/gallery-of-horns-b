@@ -11,4 +11,5 @@ When the user chooses one of the options, the correct images should be displayed
 
 Time estimate: 80 mins
 Time Start: 2215
-Time Finish: 
+Time Finish: 2355
+Actual time: 100 mins
